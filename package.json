@@ -1,0 +1,38 @@
+{
+  "name": "json-token-oauth",
+  "version": "0.0.1",
+  "description": "warp.oauth.jwt",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "btoa": "^1.1.2",
+    "express": "^4.13.4",
+    "async": "^0.9.0",
+    "jsonwebtoken": "^7.0.0",
+    "redis": "^2.6.0-2",
+    "express-session": "^1.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nadiafernandes/json-token-oauth.git"
+  },
+  "keywords": [
+    "jason",
+    "web",
+    "token",
+    "oauth"
+  ],
+  "author": "nadiafernandes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nadiafernandes/json-token-oauth/issues"
+  },
+  "homepage": "https://github.com/nadiafernandes/json-token-oauth#readme"
+}
